@@ -20,21 +20,6 @@ Transform your beauty routine with AI! This interactive web application combines
 - **📱 Responsive Design**: Beautiful experience across desktop, tablet, and mobile
 - **🎨 Brand-Authentic Styling**: Designed with L'Oréal's signature red and gold color palette
 
-## 🚀 Live Demo
-
-Experience the app: [View Demo](https://your-demo-url-here.com)
-
-## 📸 Screenshots
-
-### Product Selection
-![Product Selection](https://via.placeholder.com/800x400/ff003b/ffffff?text=Product+Selection+Interface)
-
-### AI Routine Generation
-![AI Routine](https://via.placeholder.com/800x400/e3a535/ffffff?text=AI+Generated+Routine)
-
-### Interactive Chat
-![Chat Interface](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Beauty+Consultant+Chat)
-
 ## 🛠️ Technologies Used
 
 - **Frontend**: Vanilla JavaScript (ES6+), HTML5, CSS3
